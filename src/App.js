@@ -14,15 +14,15 @@ function App() {
     },
     {
       id: 2,
-      text: "Pushing site to Github",
-      day: "Jan 16th at 9:00pm",
+      text: "Welcome beautiful people of Internet",
+      day: "Jan 16th at 8:40pm",
       reminder: true,
     },
     {
       id: 3,
-      text: "Publishing site to Github Pages",
-      day: "Jan 17th at 7:00am",
-      reminder: false,
+      text: "Thanks for visiting the page",
+      day: "Jan 16th at 9:00pm",
+      reminder: true,
     },
   ]);
 
