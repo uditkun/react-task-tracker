@@ -8,4 +8,4 @@ It can:-
 - Add/Delete Tasks
 - Show visually if a reminder is set on the Task, and change reminder status by double clicking on the Task.
 
-You can interact with the app by visiting: https://uditkun.github.to/react-task-tracker/
+You can interact with the app by visiting: https://uditkun.github.io/react-task-tracker/
